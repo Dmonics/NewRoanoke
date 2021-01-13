@@ -1,0 +1,58 @@
+{
+	"packageCache":
+	{
+		"/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter":
+		{
+			"graphCache":
+			{
+				"4F9AAA774069B48A3C5F24BFAB00D15D":
+				{
+					"cachedNodes":
+					{
+						"641371E6411FC9D89F0E5D8323049C98":
+						{
+							"x": 153,
+							"y": 58
+						},
+						"E561D2DB4B7FED1CA67E47A35DA088DB":
+						{
+							"x": 205,
+							"y": 84
+						},
+						"29BE42084C13A86EB82EE296C49102B1":
+						{
+							"x": 121,
+							"y": 84
+						}
+					},
+					"cachedPins":
+					{
+						"EAE8F3034FC01AF83136C48DCE1F4D73": 12,
+						"9CB66600479CAAE192CD17823296C033": 41,
+						"F7A2080E4BD322CA0CE6FCA2CEF9ACC7": 12,
+						"231B7DAF45C6FF400B1DA989A7C2BC60": 41,
+						"D7EAF2F74F6841CD84AAEB94A0F4B40F": 68,
+						"04966F014C66123CFDD67E916C145E2B": 12,
+						"57CD4DDA451FF709045C31B391062C3C": 41,
+						"9946649A476E0D4CC4C8249B9255A235": 68
+					}
+				},
+				"24E95FCD44385987EF39B79A744CD417":
+				{
+					"cachedNodes":
+					{
+						"BC49EA5242C8635EC9D5238E06CEC6B6":
+						{
+							"x": 173,
+							"y": 58
+						}
+					},
+					"cachedPins":
+					{
+						"9EB06462436AAC0D6904D1BAC10B55FF": 41
+					}
+				}
+			}
+		}
+	}
+}
